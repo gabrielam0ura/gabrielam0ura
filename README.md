@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-I am a backend developer with experience in Python, Java, and PostgreSQL, working on web systems, integrations, and REST APIs. I have knowledge of frameworks such as Flask, Django and Spring Boot, use Gradle for build automation, and Pandas for data manipulation. I work with relational databases, focusing on performance, security, and efficient structure. I seek to grow technically and contribute to impactful projects.
+I am a backend developer with experience in Python, Java, and PostgreSQL, working on web systems, integrations, and REST APIs. I have knowledge of frameworks such as Flask and Spring Boot, use Gradle for build automation, and Pandas for data manipulation. I work with relational databases, focusing on performance, security, and efficient structure. I seek to grow technically and contribute to impactful projects.
 
 ### ⚡ SKILLS
 
